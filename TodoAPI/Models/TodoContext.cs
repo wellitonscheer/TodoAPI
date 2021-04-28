@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace tentandoAPI.Models
+namespace TodoAPI.Models
 {
     public class TodoContext : DbContext
     {

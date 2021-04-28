@@ -4,9 +4,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using tentandoAPI.Models;
+using TodoAPI.Models;
 
-namespace tentandoAPI
+namespace TodoAPI
 {
     public class Startup
     {
